@@ -1,0 +1,11 @@
+
+
+
+18:34:46.272 [main] INFO  resources.base - Driver is intialized
+18:35:09.232 [main] INFO  resources.base - Navigate to Homepage
+18:35:09.554 [main] INFO  resources.base - Successfully validated
+18:35:53.431 [main] INFO  resources.base - Nonrestricted user
+08:12:26.411 [TestNG] INFO  resources.base - Driver is intialized
+08:12:51.877 [TestNG] INFO  resources.base - Navigate to Homepage
+08:12:52.417 [TestNG] INFO  resources.base - Successfully validated
+08:12:55.712 [TestNG] INFO  resources.base - Restricted user

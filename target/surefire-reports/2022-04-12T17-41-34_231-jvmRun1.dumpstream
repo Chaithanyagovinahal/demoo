@@ -1,0 +1,4 @@
+# Created at 2022-04-12T17:41:43.227
+
+An error occurred while instantiating class Academy.ValidateNavigationBar: org/apache/logging/log4j/util/ReflectionUtil
+

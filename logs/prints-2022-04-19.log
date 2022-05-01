@@ -1,0 +1,6 @@
+22:55:40.407 [TestNG-tests-1] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x00de5f6a8735842c
+22:55:41.266 [TestNG-tests-2] INFO  resources.base - Driver is intialized
+22:56:23.522 [TestNG-tests-2] INFO  resources.base - Navigate to Homepage
+22:56:24.571 [TestNG-tests-2] INFO  resources.base - Successfully validated
+22:56:28.435 [TestNG-tests-1] INFO  resources.base - Restrcited User
+22:56:32.324 [Forwarding newSession on session null to remote] INFO  resources.base - Navigation Bar is displayed
